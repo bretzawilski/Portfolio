@@ -1,0 +1,1 @@
+This is just a sample document to test version control.
